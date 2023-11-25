@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "subject": "Literature",
+    "topic": "Fiction",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of India?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the name of the process by which plants make their own food?",
+    "subject": "Biology",
+    "topic": "Plants",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the name of the largest bone in the human body?",
+    "subject": "Biology",
+    "topic": "Anatomy",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the name of the phenomenon that causes the sky to appear blue?",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the value of pi up to two decimal places?",
+    "subject": "Mathematics",
+    "topic": "Numbers",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the name of the longest river in the world?",
+    "subject": "Geography",
+    "topic": "Rivers",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched by humans?",
+    "subject": "Science",
+    "topic": "Space",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the name of the theory that explains the origin of the universe?",
+    "subject": "Science",
+    "topic": "Cosmology",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the name of the branch of mathematics that deals with the properties and relations of abstract entities such as numbers, symbols, and sets?",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the name of the literary device that involves a discrepancy between what is said and what is meant or what is expected and what actually happens?",
+    "subject": "Literature",
+    "topic": "Figures of Speech",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the name of the political and economic system that advocates for the common ownership of the means of production and the absence of social classes and state authority?",
+    "subject": "Social Studies",
+    "topic": "Political Science",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the name of the chemical compound with the formula H2O?",
+    "subject": "Chemistry",
+    "topic": "Molecules",
+    "difficulty": "Hard",
+    "marks": 15
+  }
+]
